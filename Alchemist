@@ -1,0 +1,158 @@
+Skip to content
+Your account has been flagged.
+Because of that, your profile is hidden from the public. If you believe this is a mistake, contact support to have your account status reviewed.
+chemist business lab
+Repositories0
+Code39K
+Commits2
+Issues15
+Marketplace0
+Topics0
+Wikis119
+Users0
+Language
+
+Sort
+
+39,434 code results
+@aashifa123
+aashifa123/NewMediapp – Business.java
+Showing the top 12 matches
+Last indexed on Jul 13, 2018
+Java
+    Spinner addBusiness,hospitalCountry,hospitalState,labCountry,labState,chemistCountry,chemistState;
+    Button addHospital;
+    EditText hospitalName,hospitalAddress,hospitalCity,hospitalPincode,labName,labAddress,labCity,labPincode,chemistName,chemistAddress,chemistCity,chemistPincode;
+    private String state[]=null;
+@JainTanisha
+JainTanisha/E-Prescription_and_E-Labs – private.xml
+Showing the top match
+Last indexed on Jul 9, 2018
+XML
+            <file>file:/Users/sanjayjain/Desktop/NetBeansProjects/Final%20Project/src/UserInterface_DoctorRole/DoctorToLabAssistantRequestJPanel.java</file>
+            <file>file:/Users/sanjayjain/Desktop/NetBeansProjects/Final%20Project/src/Business/Queue/WorkRequest.java</file>
+            <file>file:/Users/sanjayjain/Desktop/NetBeansProjects/Final%20Project/src/UserInterface_DoctorRole/RequestTestJPanel.java</file>
+@JainTanisha
+JainTanisha/E-Prescription_and_E-Labs – Role.java
+Showing the top seven matches
+Last indexed on Jul 9, 2018
+Java
+ * and open the template in the editor.
+ */
+package Business.Role;
+
+import Business.EcoSystem;
+import Business.Enterprise.Enterprise;
+import Business.Network.Network;
+        Patient("Patient"),
+        Chemist("Chemist"),
+        LabAssistant("LabAssistant");
+        
+        private String value;
+@JainTanisha
+JainTanisha/E-Prescription_and_E-Labs – AppointmentVisitPDCLRequest.java
+Showing the top four matches
+Last indexed on Jul 9, 2018
+Java
+ * and open the template in the editor.
+ */
+package Business.Queue;
+
+import Business.UserAccount.UserAccount;
+import java.util.Date;
+    private UserAccount pPreferredChemist;
+    private UserAccount pPreferredLabAssistant;
+    private String appointmentResult;
+@Masterkiller171
+Masterkiller171/School_prjct – Jobs.php
+Showing the top four matches
+Last indexed on Jul 10, 2018
+PHP
+<?php
+$jobs=[ 
+'Analyst', 
+'Analytical Lab Technician', 
+'Analytical Services Chemist', 
+'Bioinformatics Research Scientist', 
+'Biology Professor', 
+'Business Analyst', 
+'Business System Analyst', 
+'Cell Biology Scientist', 
+@Masterkiller171
+Masterkiller171/School_prjct – Jobs.php
+Showing the top four matches
+Last indexed on Jul 10, 2018
+PHP
+<?php
+$jobs=[ 
+'Analyst', 
+'Analytical Lab Technician', 
+'Analytical Services Chemist', 
+'Bioinformatics Research Scientist', 
+'Biology Professor', 
+'Business Analyst', 
+'Business System Analyst', 
+'Cell Biology Scientist', 
+@mondokan
+mondokan/mondokan.github.io – senior-chemist-resume-sample.yml
+Showing the top three matches
+Last indexed on Oct 23, 2018
+YAML
+-
+    slug: lab-technician
+    name: 'Lab Technician'
+    image: 'https://i.pinimg.com/originals/6f/98/43/6f9843f997f7815b526f38c561b85383.gif'
+    url: /project/lab-technician/
+    date: 'Jun 2017'
+@singhbhupender1
+singhbhupender1/JAVA-PROJECT – Role.java
+Showing the top seven matches
+Last indexed on Jul 14, 2018
+Java
+ * and open the template in the editor.
+ */
+package Business.Role;
+
+import Business.EcoSystem;
+import Business.Enterprise.Enterprise;
+import Business.Network.Network;
+        Patient("Patient"),
+        Chemist("Chemist"),
+        LabAssistant("LabAssistant");
+        
+        private String value;
+@xuyanbo0123
+xuyanbo0123/QuotenSure – occupations.csv
+Showing the top seven matches
+Last indexed on Jul 9, 2018
+CSV
+_BROKER,Broker,Broker,1,Sales
+_BUSINESS_OWNER,Business Owner,Business Owner,1,BusinessOwner
+_CASHIER,Cashier,Cashier,1,Employeed
+_CERTIFIED_PUBLIC_ACCOUNTANT,Certified Public Accountant,Certified Public Accountant,1,Employeed
+_CHEMIST,Chemist,Chemist,1,Scientist
+_CHILDCARE,ChildCare,ChildCare,1,Employeed
+_CITYWORKER,CityWorker,CityWorker,1,Employeed
+@JainTanisha
+JainTanisha/E-Prescription_and_E-Labs – RequestAppointmentJPanel.java
+Showing the top seven matches
+Last indexed on Jul 9, 2018
+Java
+import Business.Enterprise.Enterprise;
+import Business.Enterprise.PathologyLabEnterprise;
+import Business.Enterprise.PharmacyEnterprise;
+import Business.Network.Network;
+import Business.Organization.ChemistOrganization;
+import Business.Organization.DoctorOrganization;
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
